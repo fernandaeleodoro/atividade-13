@@ -10,14 +10,13 @@ A interface foi construída com HTML e estilizada com classes do Bootstrap, segu
 
  Funcionalidades
 
-- Campo de e-mail
-- Campo de senha
-- Botão de login
-- Links auxiliares (esqueci minha senha / criar conta)
-- Layout responsivo
+ Campo de e-mail
+ Campo de senha
+ Botão de login
+ Links auxiliares (esqueci minha senha / criar conta)
+ Layout responsivo
 
 Tecnologias utilizadas
 
-- HTML5
-- Bootstrap 5
+ HTML5, Bootstrap 5
 
